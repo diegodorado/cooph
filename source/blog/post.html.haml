@@ -1,0 +1,48 @@
+- @title = current_article.title
+!!! 5
+%html{:class => "no-js", :lang => "en"}
+  %head
+    %meta{:charset => "utf-8"}
+    %meta{'http-equiv' => "X-UA-Compatible", :content =>"IE=edge,chrome=1"}
+    %title= @title
+    %meta{:name => "description", :content => ""}
+    %meta{:name => "author", :content => ""}
+    -# Mobile viewport optimized: j.mp/bplateviewport
+    -# * disabled because I think the zoomed-in behavior on iOS sucks -- @nathos *
+    %meta{:name =>"viewport", :content => "width=device-width,initial-scale=1"}
+    %link{:href => 'http://fonts.googleapis.com/css?family=Ubuntu:300', :rel=> 'stylesheet'}
+    %link{:rel => "stylesheet", :href => "/stylesheets/screen.css"}
+
+  %body
+    #top_bar
+    = partial 'layouts/header'
+    #main-content.fixed_content
+      %h2= current_article.title
+      .page_content.blog
+        = current_article.body
+        %span.time
+          Posted:
+          %span
+            = current_article.date.strftime('%b %e %Y')
+        %span.tagged
+          Tags:
+          - current_article.tags.each do |tag, articles|
+            %a{ :href => "#{tag_path tag}", :class => 'tag'}
+              = tag
+
+        #disqus_thread
+        :javascript
+          var disqus_shortname = 'cooperativahormigon'; // required: replace example with your forum shortname
+          (function() {
+              var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+              dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+              (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+          })(); 
+
+
+
+
+          
+    %footer
+      = partial "layouts/js_footer"
+      = partial "layouts/footer"

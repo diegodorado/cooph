@@ -1,0 +1,24 @@
+- @title = current_article.title
+
+- wrap_layout :layout do
+  %h2= current_article.title
+  .page_content.blog
+    = current_article.body
+    %span.time
+      Posted:
+      %span
+        = current_article.date.strftime('%b %e %Y')
+    %span.tagged
+      Tags:
+      - current_article.tags.each do |tag, articles|
+        %a{ :href => "#{tag_path tag}", :class => 'tag'}
+          = tag
+
+    #disqus_thread
+    :javascript
+      var disqus_shortname = 'cooperativahormigon'; // required: replace example with your forum shortname
+      (function() {
+          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+          dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })(); 

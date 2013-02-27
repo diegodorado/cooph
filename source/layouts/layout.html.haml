@@ -1,0 +1,31 @@
+!!! 5
+%html{:class => "no-js", :lang => @lang}
+  %head
+    %meta{:charset => "utf-8"}/
+    %meta{ "http-equiv" => "X-UA-Compatible", :content => "IE=edge,chrome=1" }/
+    %title= @title
+    %meta{:name => "description", :content => ""}
+    %meta{:content => "diegodorado@gmail.com", :name => "author"}/
+    / Mobile viewport optimized: j.mp/bplateviewport
+    %meta{:name => "viewport", :content => "width=device-width,initial-scale=1.0,maximum-scale=1.0"}
+    / Place favicon.ico and apple-touch-icon.png in the root of your domain and delete these references
+    %link{:href => "/favicon.ico", :rel => "shortcut icon"}/
+    %link{:href => 'http://fonts.googleapis.com/css?family=Ubuntu:300', :rel=> 'stylesheet'}
+
+
+    = stylesheet_link_tag "application"
+    /[if lt IE 9]
+      = javascript_include_tag 'head'    
+  %body
+    /[if lt IE 7] <p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p>
+    = partial 'layouts/header'
+    %div{:role => "main", :class => "main"}
+      .container
+        = partial 'layouts/sidebar'
+        #content
+          .hole-border
+            .hole
+              = yield
+    = partial "layouts/footer"
+    = javascript_include_tag 'application'
+

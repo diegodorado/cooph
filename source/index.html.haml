@@ -1,0 +1,18 @@
+- @title = "Portfolio"
+
+.works
+  %ul
+    - data.sites.each do |k,v|
+      %li{:class => "#{k}"}
+        %ul
+          %li 
+            =link_to v.name, "/portfolio/#{k}"
+          %li description: #{v.description}
+          %li customer:  #{v.customer}
+          %li tech: #{v.tech}
+          %li url: #{v.url}
+          %li dev_url: #{v.dev_url}
+          %li thumb: #{v.thumb}
+          %li img: #{v.img}
+        
+

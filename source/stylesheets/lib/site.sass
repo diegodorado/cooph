@@ -1,0 +1,73 @@
+@import "compass"
+@import "susy"
+@import "sprites"
+
+$total-columns  : 7
+$column-width   : 4em
+$gutter-width   : 1em
+$grid-padding   : $gutter-width
+
+$break          : 12
+
+
+body
+  background: #C7A465
+
+header
+  overflow: hidden
+  height: image-height('sky.png')
+  +background( image-url('sky-ie.png') center no-repeat)
+  +background( image-url('ants.png') center no-repeat , image-url('grass.png') center no-repeat, image-url('ground.png') center no-repeat, image-url('sky.png') center repeat-x )
+
+footer
+  height: image-height('footer.png')
+  +background( image-url('footer.png') center no-repeat)
+
+
+.container
+  +container($total-columns, $break)
+
+//+at-breakpoint($break)
+//  .container
+
+
+#sidebar  
+  +span-columns(3,12)
+
+  nav
+    height: image-height('sidebar.png')
+    width: image-width('sidebar.png')
+    +background(image-url('sidebar.png') no-repeat)
+    margin-left: -17px
+  ul
+    margin: 0
+    padding: 0
+    overflow: hidden
+
+#content
+  +span-columns(9 omega,12)
+  .hole-border
+    +border-image(image-url('hole.png') 60 44 100 44 stretch)
+    border-width: 60px 44px 100px 44px
+  .hole
+    background: #FBF3E9
+    +susy-grid-background
+    overflow: hidden
+
+
+.contact
+  +container
+  form
+    input, textarea
+      width: 100%
+      border: 1px solid #666
+      margin: 10px 0
+      +border-radius(5px)
+.contact-left
+  +span-columns(4,7)
+
+.contact-right
+  +span-columns(3 omega,7)
+
+
+  

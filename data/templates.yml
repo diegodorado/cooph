@@ -1,0 +1,735 @@
+
+%YAML 1.1
+---
+# cooperat_cooperativa.plantillas
+-
+  id: 23
+  nombre_sitio: "oregano"
+  descripcion: "PLANTILLA 1"
+  contenido1: "- home con artículos destacados<br />\r\n- 3 secciones estáticas (título, imagen y texto)<br />\r\n- 1 formulario básico para búsqueda de artículos<br />\r\n- 1 sección para detalle del artículo<br />\r\n- 1 formulario de contacto<br />"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes y trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla01/"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla01/"
+  orden: 5
+  img_peque: "thumb_oregano.jpg"
+  img_amplia: "oregano.jpg"
+-
+  id: 24
+  nombre_sitio: "agrimed"
+  descripcion: "PLANTILLA 2"
+  contenido1: "- home con artículos destacados<br />\r\n- 2 secciones estáticas<br />\r\n- 1 galería de imágenes<br />\r\n- 1 sección para listado de artículos anteriores<br />\r\n- 1 formulario de contacto<br />"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes y trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla02/"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla02/"
+  orden: 10
+  img_peque: "thumb_agrimed.jpg"
+  img_amplia: "agrimed.jpg"
+-
+  id: 25
+  nombre_sitio: "josefina"
+  descripcion: "PLANTILLA 3"
+  contenido1: "- 3 secciones estáticas<br />\r\n- 1 galería de imágenes<br />\r\n- 1 formulario de contacto<br />"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla03/"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla03/"
+  orden: 13
+  img_peque: "thumb_josefina.jpg"
+  img_amplia: "josefina.jpg"
+-
+  id: 26
+  nombre_sitio: "las_flores"
+  descripcion: "PLANTILLA 4"
+  contenido1: "- 3 secciones estáticas<br />\r\n- 1 galería de imágenes<br />\r\n- 1 formulario de contacto<br />"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla04"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla04"
+  orden: 4
+  img_peque: "thumb_las_flores.jpg"
+  img_amplia: "las_flores.jpg"
+-
+  id: 28
+  nombre_sitio: "fundaedu"
+  descripcion: "PLANTILLA 1 IMPLEMENTADO"
+  contenido1: "- home con artículos destacados<br />\r\n- 3 secciones estáticas (título, texto y links)<br />\r\n- 1 sección para detalle del artículo<br />\r\n- 1 formulario de contacto<br />"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.fundacionamericana.org.ar"
+  url_en_coop: "http://www.fundacionamericana.org.ar"
+  orden: 6
+  img_peque: "thumb_fundaedu.jpg"
+  img_amplia: "fundaedu.jpg"
+-
+  id: 29
+  nombre_sitio: "taller_de_pareja"
+  descripcion: "PLANTILLA 3 IMPLEMENTADA"
+  contenido1: "- 3 secciones estáticas<br />\r\n- 1 galería de imágenes<br />\r\n- 1 formulario de contacto<br />"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.tallerdepareja.com.ar"
+  url_en_coop: "http://www.tallerdepareja.com.ar"
+  orden: 2
+  img_peque: "thumb_taller_de_pareja.jpg"
+  img_amplia: "taller_de_pareja.jpg"
+-
+  id: 30
+  nombre_sitio: "nacer_a_la_vida"
+  descripcion: "PLANTILLA 3 IMPLEMENTADA"
+  contenido1: "- 3 secciones estáticas<br />\r\n- 1 galería de imágenes<br />\r\n- 1 formulario de contacto<br />"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.naceralavida.com.ar"
+  url_en_coop: "http://www.naceralavida.com.ar"
+  orden: 18
+  img_peque: "thumb_nacer_a_la_vida.jpg"
+  img_amplia: "nacer_a_la_vida.jpg"
+-
+  id: 39
+  nombre_sitio: "Miss Understood"
+  descripcion: "PLANTILLA 10"
+  contenido1: "- home con artículos destacados <br />\r\n- 3 secciones estáticas (título, texto y links) <br />\r\n- 1 sección para detalle del artículo <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla10/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla10/index.html"
+  orden: 10
+  img_peque: "thumb_3523e1befc9016b7e43b24842125d2dd.jpg"
+  img_amplia: "3523e1befc9016b7e43b24842125d2dd.jpg"
+-
+  id: 40
+  nombre_sitio: "Busy City"
+  descripcion: "PLANTILLA 11"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n-  Links a otras páginas <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla11/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla11/index.html"
+  orden: 11
+  img_peque: "thumb_f0029feb0e86e985e545a32cf031c5c1.jpg"
+  img_amplia: "f0029feb0e86e985e545a32cf031c5c1.jpg"
+-
+  id: 41
+  nombre_sitio: "Metro 01"
+  descripcion: "PLANTILLA 12"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- Links a otros sitios <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla12/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla12/index.html"
+  orden: 12
+  img_peque: "thumb_a0580b2ba98a2a137512b7956a59becf.jpg"
+  img_amplia: "a0580b2ba98a2a137512b7956a59becf.jpg"
+-
+  id: 42
+  nombre_sitio: "Greenery"
+  descripcion: "PLANTILLA 13"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla13/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla13/index.html"
+  orden: 13
+  img_peque: "thumb_3b38f40baeb892c439453475cb481a76.jpg"
+  img_amplia: "3b38f40baeb892c439453475cb481a76.jpg"
+-
+  id: 43
+  nombre_sitio: "Simpler"
+  descripcion: "PLANTILLA 14"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla14/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla14/index.html"
+  orden: 14
+  img_peque: "thumb_da2f4ce31df939a4f88747780abe7212.jpg"
+  img_amplia: "da2f4ce31df939a4f88747780abe7212.jpg"
+-
+  id: 44
+  nombre_sitio: "Drip Zone"
+  descripcion: "PLANTILLA 15"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- Links a otros sitios <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla15/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla15/index.html"
+  orden: 15
+  img_peque: "thumb_ac7211f72cb0609a5a779c9791c28ef8.jpg"
+  img_amplia: "ac7211f72cb0609a5a779c9791c28ef8.jpg"
+-
+  id: 45
+  nombre_sitio: "Ellien Green"
+  descripcion: "PLANTILLA 16"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla16/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla16/index.html"
+  orden: 16
+  img_peque: "thumb_b4b030639ce2eadd852a4baa34ef6581.jpg"
+  img_amplia: "b4b030639ce2eadd852a4baa34ef6581.jpg"
+-
+  id: 46
+  nombre_sitio: "Bitter Sweet"
+  descripcion: "PLANTILLA 17"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla17/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla17/index.html"
+  orden: 17
+  img_peque: "thumb_d2c7944d48e70e5d3522bc15cf017a8b.jpg"
+  img_amplia: "d2c7944d48e70e5d3522bc15cf017a8b.jpg"
+-
+  id: 48
+  nombre_sitio: "Red Sound"
+  descripcion: "PLANTILLA 19"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla19/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla19/index.html"
+  orden: 19
+  img_peque: "thumb_3e3e7faced7a3fe29f99c670af854bd5.jpg"
+  img_amplia: "3e3e7faced7a3fe29f99c670af854bd5.jpg"
+-
+  id: 50
+  nombre_sitio: "Lazy Days"
+  descripcion: "PLANTILLA 21"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla21/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla21/index.html"
+  orden: 21
+  img_peque: "thumb_8a447e7a181110aba7f0798e96d83e64.jpg"
+  img_amplia: "8a447e7a181110aba7f0798e96d83e64.jpg"
+-
+  id: 51
+  nombre_sitio: "City in Paint"
+  descripcion: "PLANTILLA 22"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla22/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla22/index.html"
+  orden: 22
+  img_peque: "thumb_e07fa6a3494f2831d91bdaa37f6dca6b.jpg"
+  img_amplia: "e07fa6a3494f2831d91bdaa37f6dca6b.jpg"
+-
+  id: 52
+  nombre_sitio: "Street Life"
+  descripcion: "PLANTILLA 23"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla23/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla23/index.html"
+  orden: 23
+  img_peque: "thumb_cc6db8bf21d5ae67bfa0ede17d4428aa.jpg"
+  img_amplia: "cc6db8bf21d5ae67bfa0ede17d4428aa.jpg"
+-
+  id: 53
+  nombre_sitio: "Monkeys"
+  descripcion: "PLANTILLA 24"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- Links a otros sitios <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla24/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla24/index.html"
+  orden: 24
+  img_peque: "thumb_78f9f60da5318962f6ad3140c4d40809.jpg"
+  img_amplia: "78f9f60da5318962f6ad3140c4d40809.jpg"
+-
+  id: 55
+  nombre_sitio: "Metropolis"
+  descripcion: "PLANTILLA 26"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- Links a otros sitios <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla26/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla26/index.html"
+  orden: 26
+  img_peque: "thumb_6ce68b6e7229bcae20b09d0cc3f5004c.jpg"
+  img_amplia: "6ce68b6e7229bcae20b09d0cc3f5004c.jpg"
+-
+  id: 56
+  nombre_sitio: "Blog by LMP"
+  descripcion: "PLANTILLA 27"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- Links a otros sitios <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla27/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla27/index.html"
+  orden: 27
+  img_peque: "thumb_7842a7166e0399bfdebc4c343502dae6.jpg"
+  img_amplia: "7842a7166e0399bfdebc4c343502dae6.jpg"
+-
+  id: 57
+  nombre_sitio: "WebSite"
+  descripcion: "PLANTILLA 28"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- Links a otros sitios <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla28/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla28/index.html"
+  orden: 28
+  img_peque: "thumb_becc5f882ca4f332641a18936589352a.jpg"
+  img_amplia: "becc5f882ca4f332641a18936589352a.jpg"
+-
+  id: 58
+  nombre_sitio: "Tick"
+  descripcion: "PLANTILLA 29"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla29/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla29/index.html"
+  orden: 29
+  img_peque: "thumb_1b40d38412b868dadad8ed354deedabb.jpg"
+  img_amplia: "1b40d38412b868dadad8ed354deedabb.jpg"
+-
+  id: 59
+  nombre_sitio: "Yellow"
+  descripcion: "PLANTILLA 30"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla30/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla30/index.html"
+  orden: 30
+  img_peque: "thumb_2208e69ca7784299743438e102ee8ead.jpg"
+  img_amplia: "2208e69ca7784299743438e102ee8ead.jpg"
+-
+  id: 60
+  nombre_sitio: "Mouse"
+  descripcion: "PLANTILLA 31"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- Links a otros sitios <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla31/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla31/index.html"
+  orden: 31
+  img_peque: "thumb_a21a8f73c7027e037005224ed37103c1.jpg"
+  img_amplia: "a21a8f73c7027e037005224ed37103c1.jpg"
+-
+  id: 61
+  nombre_sitio: "Andreas 02"
+  descripcion: "PLANTILLA 32"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- Links a otros sitios <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla32/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla32/index.html"
+  orden: 32
+  img_peque: "thumb_37a66cd9ee5177eb1e3317192599a676.jpg"
+  img_amplia: "37a66cd9ee5177eb1e3317192599a676.jpg"
+-
+  id: 62
+  nombre_sitio: "Andreas 06"
+  descripcion: "PLANTILLA 33"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla33/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla33/index.html"
+  orden: 33
+  img_peque: "thumb_c66da0f3493eef3e346eab8fe14dd4bd.jpg"
+  img_amplia: "c66da0f3493eef3e346eab8fe14dd4bd.jpg"
+-
+  id: 64
+  nombre_sitio: "Reflection"
+  descripcion: "PLANTILLA 35"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- Links a otros sitios <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla35/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla35/index.html"
+  orden: 35
+  img_peque: "thumb_0cb91b4b6652f49058d970e67a901267.jpg"
+  img_amplia: "0cb91b4b6652f49058d970e67a901267.jpg"
+-
+  id: 66
+  nombre_sitio: "Thin Green"
+  descripcion: "PLANTILLA 37"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- Links a otros sitios <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla37/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla37/index.html"
+  orden: 37
+  img_peque: "thumb_5560408840cb3572600d564bed0541e3.jpg"
+  img_amplia: "5560408840cb3572600d564bed0541e3.jpg"
+-
+  id: 67
+  nombre_sitio: "Plain Blue"
+  descripcion: "PLANTILLA 38"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla38/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla38/index.html"
+  orden: 38
+  img_peque: "thumb_bdd96406061bb3adfcadc1f116041882.jpg"
+  img_amplia: "bdd96406061bb3adfcadc1f116041882.jpg"
+-
+  id: 68
+  nombre_sitio: "Simpliss Times"
+  descripcion: "PLANTILLA 39"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla39/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla39/index.html"
+  orden: 39
+  img_peque: "thumb_39f021870d4d991e319f908dc05836a5.jpg"
+  img_amplia: "39f021870d4d991e319f908dc05836a5.jpg"
+-
+  id: 69
+  nombre_sitio: "GundMetal"
+  descripcion: "PLANTILLA 40"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto\r\n"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla40/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla40/index.html"
+  orden: 40
+  img_peque: "thumb_234949cb331c6a090d9d3823a3a82ad4.jpg"
+  img_amplia: "234949cb331c6a090d9d3823a3a82ad4.jpg"
+-
+  id: 70
+  nombre_sitio: "Defoult"
+  descripcion: "PLANTILLA 41"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla41/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla41/index.html"
+  orden: 41
+  img_peque: "thumb_07c4e2b70a1770c96605cc239a754d4c.jpg"
+  img_amplia: "07c4e2b70a1770c96605cc239a754d4c.jpg"
+-
+  id: 71
+  nombre_sitio: "Dark Shine"
+  descripcion: "PLANTILLA 42"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla42/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla42/index.html"
+  orden: 42
+  img_peque: "thumb_1f3dacbb4e62431105bf250e75fb728e.jpg"
+  img_amplia: "1f3dacbb4e62431105bf250e75fb728e.jpg"
+-
+  id: 72
+  nombre_sitio: "Green Lush"
+  descripcion: "PLANTILLA 43"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- Links a otros sitios <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla43/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla43/index.html"
+  orden: 43
+  img_peque: "thumb_80afa9f0c80c124c8b0247ab770970a5.jpg"
+  img_amplia: "80afa9f0c80c124c8b0247ab770970a5.jpg"
+-
+  id: 73
+  nombre_sitio: "Reflection"
+  descripcion: "PLANTILLA 44"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- Links a otros sitios <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla44/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla44/index.html"
+  orden: 44
+  img_peque: "thumb_5d8f7409242f813ea4f0df22cb173a64.jpg"
+  img_amplia: "5d8f7409242f813ea4f0df22cb173a64.jpg"
+-
+  id: 74
+  nombre_sitio: "Ws 37"
+  descripcion: "PLANTILLA 45"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- Links a otros sitios <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla45/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla45/index.html"
+  orden: 45
+  img_peque: "thumb_0bbcf67bf7a0f9ba6a285fc569dbd358.jpg"
+  img_amplia: "0bbcf67bf7a0f9ba6a285fc569dbd358.jpg"
+-
+  id: 76
+  nombre_sitio: "Andreass 00"
+  descripcion: "PLANTILLA 47"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- Links a otros sitios <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla47/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla47/index.html"
+  orden: 47
+  img_peque: "thumb_d335fe63e05a07df99af94a96d392988.jpg"
+  img_amplia: "d335fe63e05a07df99af94a96d392988.jpg"
+-
+  id: 77
+  nombre_sitio: "Your Site"
+  descripcion: "PLANTILLA 48"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla48/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla48/index.html"
+  orden: 48
+  img_peque: "thumb_5af9c429c5651d8e0baae6839457e58f.jpg"
+  img_amplia: "5af9c429c5651d8e0baae6839457e58f.jpg"
+-
+  id: 78
+  nombre_sitio: "Grunt"
+  descripcion: "PLANTILLA 49"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla49/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla49/index.html"
+  orden: 49
+  img_peque: "thumb_b4e07f40a0a0f25aa5bbc948d1b26a2e.jpg"
+  img_amplia: "b4e07f40a0a0f25aa5bbc948d1b26a2e.jpg"
+-
+  id: 79
+  nombre_sitio: "Desizle"
+  descripcion: "PLANTILLA 50"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla50/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla50/index.html"
+  orden: 50
+  img_peque: "thumb_6d69cb7ce98a5e142f153f2319afad7c.jpg"
+  img_amplia: "6d69cb7ce98a5e142f153f2319afad7c.jpg"
+-
+  id: 80
+  nombre_sitio: "The Old Forest"
+  descripcion: "PLANTILLA 51"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- Links a otros sitios <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla51/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla51/index.html"
+  orden: 51
+  img_peque: "thumb_8d7d1ca311a8d0653b5701139d4f257f.jpg"
+  img_amplia: "8d7d1ca311a8d0653b5701139d4f257f.jpg"
+-
+  id: 81
+  nombre_sitio: "Classic Car"
+  descripcion: "PLANTILLA 52"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla52/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla52/index.html"
+  orden: 52
+  img_peque: "thumb_924aacbff16e4e8bc9566d4b7aa024f2.jpg"
+  img_amplia: "924aacbff16e4e8bc9566d4b7aa024f2.jpg"
+-
+  id: 82
+  nombre_sitio: "Dark Theme"
+  descripcion: "PLANTILLA 53"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla53/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla53/index.html"
+  orden: 53
+  img_peque: "thumb_8692902d07cc451cd5170a239bf60534.jpg"
+  img_amplia: "8692902d07cc451cd5170a239bf60534.jpg"
+-
+  id: 83
+  nombre_sitio: "Simplic Times"
+  descripcion: "PLANTILLA 54"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla54/index.html"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla54/index.html"
+  orden: 54
+  img_peque: "thumb_49efca88215b421574cdd5d379c844f4.jpg"
+  img_amplia: "49efca88215b421574cdd5d379c844f4.jpg"
+-
+  id: 84
+  nombre_sitio: "Zenlike"
+  descripcion: "PLANTILLA 55"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n-  Links a otros sitio <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://cooperativahormigon.com.ar/plantillas/plantilla55/index.html"
+  url_en_coop: "http://cooperativahormigon.com.ar/plantillas/plantilla55/index.html"
+  orden: 55
+  img_peque: "thumb_c0ae683005f1d9a27d5ca5f77dedbf60.jpg"
+  img_amplia: "c0ae683005f1d9a27d5ca5f77dedbf60.jpg"
+-
+  id: 85
+  nombre_sitio: "Photo Portfolio"
+  descripcion: "PLANTILLA 56"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://cooperativahormigon.com.ar/plantillas/plantilla56/index.html"
+  url_en_coop: "http://cooperativahormigon.com.ar/plantillas/plantilla56/index.html"
+  orden: 56
+  img_peque: "thumb_2612f4c2c1ac39d68b1d44871c65f2a0.jpg"
+  img_amplia: "2612f4c2c1ac39d68b1d44871c65f2a0.jpg"
+-
+  id: 86
+  nombre_sitio: "E-Shop"
+  descripcion: "PLANTILLA 57"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://cooperativahormigon.com.ar/plantillas/plantilla57/index.html"
+  url_en_coop: "http://cooperativahormigon.com.ar/plantillas/plantilla57/index.html"
+  orden: 57
+  img_peque: "thumb_7ae15d7ac80f077bc3dc855d054b8323.jpg"
+  img_amplia: "7ae15d7ac80f077bc3dc855d054b8323.jpg"
+-
+  id: 87
+  nombre_sitio: "Intercity"
+  descripcion: "PLANTILLA 58"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- Links a otros sitio <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://cooperativahormigon.com.ar/plantillas/plantilla58/index.html"
+  url_en_coop: "http://cooperativahormigon.com.ar/plantillas/plantilla58/index.html"
+  orden: 58
+  img_peque: "thumb_52617f8c9aa54ef29a95a60338ae9ee0.jpg"
+  img_amplia: "52617f8c9aa54ef29a95a60338ae9ee0.jpg"
+-
+  id: 88
+  nombre_sitio: "Smallis Beatifull"
+  descripcion: "PLANTILLA 59"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- Links a otros sitio <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://cooperativahormigon.com.ar/plantillas/plantilla59/index.html"
+  url_en_coop: "http://cooperativahormigon.com.ar/plantillas/plantilla59/index.html"
+  orden: 59
+  img_peque: "thumb_ba6d55126421d909de08a8fc3cdb8beb.jpg"
+  img_amplia: "ba6d55126421d909de08a8fc3cdb8beb.jpg"
+-
+  id: 89
+  nombre_sitio: "Travel Agency"
+  descripcion: "PLANTILLA 60"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://cooperativahormigon.com.ar/plantillas/plantilla60/index.html"
+  url_en_coop: "http://cooperativahormigon.com.ar/plantillas/plantilla60/index.html"
+  orden: 60
+  img_peque: "thumb_a5576315716e04e98b400a8acb7d02da.jpg"
+  img_amplia: "a5576315716e04e98b400a8acb7d02da.jpg"
+-
+  id: 92
+  nombre_sitio: "Free Style"
+  descripcion: "PLANTILLA 63"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://cooperativahormigon.com.ar/plantillas/plantilla63/index.html"
+  url_en_coop: "http://cooperativahormigon.com.ar/plantillas/plantilla63/index.html"
+  orden: 63
+  img_peque: "thumb_a01fd4dc6c73d24be4405249c4c9e640.jpg"
+  img_amplia: "a01fd4dc6c73d24be4405249c4c9e640.jpg"
+-
+  id: 95
+  nombre_sitio: "Cream of the Crop"
+  descripcion: "PLANTILLA 66"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- Links a otros sitio <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://cooperativahormigon.com.ar/plantillas/plantilla66/index.html"
+  url_en_coop: "http://cooperativahormigon.com.ar/plantillas/plantilla66/index.html"
+  orden: 66
+  img_peque: "thumb_9aa438ea666adaba0463c561b1746a54.jpg"
+  img_amplia: "9aa438ea666adaba0463c561b1746a54.jpg"
+-
+  id: 97
+  nombre_sitio: "Photo Galery"
+  descripcion: "PLANTILLA 68"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://cooperativahormigon.com.ar/plantillas/plantilla68/index.html"
+  url_en_coop: "http://cooperativahormigon.com.ar/plantillas/plantilla68/index.html"
+  orden: 68
+  img_peque: "thumb_f9e36374b94726a82a61e5432fb3a7a8.jpg"
+  img_amplia: "f9e36374b94726a82a61e5432fb3a7a8.jpg"
+-
+  id: 98
+  nombre_sitio: "Black Orange"
+  descripcion: "PLANTILLA 69"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- Links a otros sitio <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://cooperativahormigon.com.ar/plantillas/plantilla69/index.html"
+  url_en_coop: "http://cooperativahormigon.com.ar/plantillas/plantilla69/index.html"
+  orden: 69
+  img_peque: "thumb_f5683e0d464da8a09a74e933ba6532af.jpg"
+  img_amplia: "f5683e0d464da8a09a74e933ba6532af.jpg"
+-
+  id: 99
+  nombre_sitio: "Localize"
+  descripcion: "PLANTILLA 70"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- Links a otros sitio <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://cooperativahormigon.com.ar/plantillas/plantilla70/index.html"
+  url_en_coop: "http://cooperativahormigon.com.ar/plantillas/plantilla70/index.html"
+  orden: 70
+  img_peque: "thumb_89d5086fce774de8915d8fdba4d876cc.jpg"
+  img_amplia: "89d5086fce774de8915d8fdba4d876cc.jpg"
+-
+  id: 100
+  nombre_sitio: "Andreas 03"
+  descripcion: "PLANTILLA 71"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- Links a otros sitio <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://cooperativahormigon.com.ar/plantillas/plantilla71/index.html"
+  url_en_coop: "http://cooperativahormigon.com.ar/plantillas/plantilla71/index.html"
+  orden: 71
+  img_peque: "thumb_999a2c0d390675997128f3a2e6949a06.jpg"
+  img_amplia: "999a2c0d390675997128f3a2e6949a06.jpg"
+-
+  id: 103
+  nombre_sitio: "Andreas 05"
+  descripcion: "PLANTILLA 73"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://cooperativahormigon.com.ar/plantillas/plantilla73/index.html"
+  url_en_coop: "http://cooperativahormigon.com.ar/plantillas/plantilla73/index.html"
+  orden: 73
+  img_peque: "thumb_5b9d55db6bdaa74a4d2920f642e50c12.jpg"
+  img_amplia: "5b9d55db6bdaa74a4d2920f642e50c12.jpg"
+-
+  id: 106
+  nombre_sitio: "Salt and Soap"
+  descripcion: "PLANTILLA 76"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://cooperativahormigon.com.ar/plantillas/plantilla76/index.html"
+  url_en_coop: "http://cooperativahormigon.com.ar/plantillas/plantilla76/index.html"
+  orden: 76
+  img_peque: "thumb_958edc8d93a0c6782eadef8cd89bc437.jpg"
+  img_amplia: "958edc8d93a0c6782eadef8cd89bc437.jpg"
+-
+  id: 108
+  nombre_sitio: "Beatifull Day"
+  descripcion: "PLANTILLA 78"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- Links a otros sitios <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://cooperativahormigon.com.ar/plantillas/plantilla78/index.html"
+  url_en_coop: "http://cooperativahormigon.com.ar/plantillas/plantilla78/index.html"
+  orden: 78
+  img_peque: "thumb_ce1ce87e220dbb67291adfad66bf6be5.jpg"
+  img_amplia: "ce1ce87e220dbb67291adfad66bf6be5.jpg"
+-
+  id: 109
+  nombre_sitio: "Charity Trust"
+  descripcion: "PLANTILLA 79"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- Links a otros sitios <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://cooperativahormigon.com.ar/plantillas/plantilla79/index.html"
+  url_en_coop: "http://cooperativahormigon.com.ar/plantillas/plantilla79/index.html"
+  orden: 79
+  img_peque: "thumb_b83a27be6dc31c3870d635e8e00af76d.jpg"
+  img_amplia: "b83a27be6dc31c3870d635e8e00af76d.jpg"
+-
+  id: 111
+  nombre_sitio: "Bipolar"
+  descripcion: "PLANTILLA 81"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://cooperativahormigon.com.ar/plantillas/plantilla81/index.html"
+  url_en_coop: "http://cooperativahormigon.com.ar/plantillas/plantilla81/index.html"
+  orden: 81
+  img_peque: "thumb_68e5b223377de4d4e66bdc7be4cf91e8.jpg"
+  img_amplia: "68e5b223377de4d4e66bdc7be4cf91e8.jpg"
+-
+  id: 112
+  nombre_sitio: "Venta de Dominios"
+  descripcion: "PLANTILLA 3 IMPLEMENTADA"
+  contenido1: "- 2 secciones estáticas <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo. "
+  url: "http://www.vendositioweb.com.ar/"
+  url_en_coop: "http://hormigon.dyndns.org/ventadedominios/index.php"
+  orden: 15
+  img_peque: "thumb_1a30bcf27b0465e0466583ef166f1928.jpg"
+  img_amplia: "1a30bcf27b0465e0466583ef166f1928.jpg"
+-
+  id: 113
+  nombre_sitio: "Business City"
+  descripcion: "PLANTILLA 18"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.cooperativahormigon.com.ar/plantillas/plantilla18"
+  url_en_coop: "http://www.cooperativahormigon.com.ar/plantillas/plantilla18"
+  orden: 18
+  img_peque: "thumb_feec004fdcd59cc38a41c26141261f5d.jpg"
+  img_amplia: "feec004fdcd59cc38a41c26141261f5d.jpg"
+-
+  id: 114
+  nombre_sitio: "Abogados en Salud"
+  descripcion: "PLANTILLA 3 IMPLEMENTADA"
+  contenido1: "- 3 secciones estáticas <br />\r\n- 1 galería de imágenes <br />\r\n- 1 formulario de contacto"
+  contenido2: "Logotipo, nombre de las secciones, textos, imágenes, tipografías, colores, bordes, trama de fondo."
+  url: "http://www.abogadosensalud.com.ar"
+  url_en_coop: "http://www.abogadosensalud.com.ar"
+  orden: 9
+  img_peque: "thumb_de23d485d2d0d4363ee20f2a3d3f4a94.jpg"
+  img_amplia: "de23d485d2d0d4363ee20f2a3d3f4a94.jpg"
+
+
+
+
+

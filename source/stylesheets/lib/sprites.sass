@@ -1,0 +1,35 @@
+@import "menu/*.png"
+$menu-sprite-dimensions: true
+
+@import "text/*.png"
+$text-sprite-dimensions: true
+
+.text-sprite
+  display: block
+  +hide-text
+
++all-text-sprites
+
+.menu-sprite
+  display: block
+  +hide-text
+
++all-menu-sprites
+
+
+=move($ml, $mt)
+  margin-left: $ml + px
+  margin-top: $mt + px
+
+.menu-contacto
+  +move(9,63)
+.menu-blog
+  +move(72,18)
+.menu-portfolio
+  +move(8,56)
+.menu-que-hacemos
+  +move(43,7)
+.menu-quienes-somos
+  +move(12,73)
+
+

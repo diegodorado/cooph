@@ -1,0 +1,22 @@
+- @title = "Contacto"
+
+.contact
+  .contact-left
+    %h2
+      %span.text-contacto Contacto
+    %form{:action => "/contact.php", :autocomplete => "off", :method => "post"}
+      %input.field{:maxlength => "255", :placeholder => 'Nombre', :name => "Field4", :onkeyup => "", :tabindex => "1", :type => "text", :value => ""}/
+      %input.field{:maxlength => "255", :placeholder => 'Email', :name => "Field2", :required => "", :spellcheck => "false", :tabindex => "2", :type => "email", :value => ""}/
+      %textarea.field{:width => "100%",  :placeholder => 'Tu consulta', :name => "Field1", :onkeyup => "", :rows => "10", :spellcheck => "true", :tabindex => "3"}
+      %input.submit{:type => "submit", :value => "Enviar"}/
+  .contact-right
+    %h2
+      %span.text-seguinos Seguinos
+    %p fb -tw
+    %h2
+      %span.text-escribinos Escribinos
+    %p info@cooperativahormigon.com.ar
+    %h2
+      %span.text-llamanos Llamanos
+    %p +54 11 3288 1734
+
